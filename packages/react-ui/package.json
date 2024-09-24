@@ -36,6 +36,6 @@
   },
   "dependencies": {
     "styled-components": "^5.3.6",
-    "tsup": "^6.2.3"
+    "tsup": "^6.7.0"
   }
 }
